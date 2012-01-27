@@ -1,1 +1,2 @@
 Une phrase de texte
+Une nouvelle phrase
